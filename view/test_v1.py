@@ -1,0 +1,1 @@
+print('Test learn python diff 888')
